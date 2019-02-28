@@ -82,6 +82,7 @@ Java开发5部
 - [Git](https://git-scm.com)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [JIRA](https://www.atlassian.com/software/jira)
+- [PyCharm](https://www.jetbrains.com/pycharm)
 - [Postman](https://www.getpostman.com)
 - [XMind](https://www.xmind.cn)
 
