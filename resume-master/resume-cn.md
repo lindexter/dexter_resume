@@ -3,6 +3,7 @@
 ## 安卓开发工程师
 
 - 联系电话: +86 1xx-xxxx-xxxx
+- 微信: dexter_lin_007
 - 电子邮箱: [405514926@qq.com](405514926@qq.com)
 - GitHub: [https://github.com/DexterLin007](https://github.com/DexterLin007)
 
