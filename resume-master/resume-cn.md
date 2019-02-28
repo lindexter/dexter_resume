@@ -1,4 +1,4 @@
-# 林文良 DexerLin
+# 林文良 (DexerLin)
 
 ## 安卓开发工程师
 
