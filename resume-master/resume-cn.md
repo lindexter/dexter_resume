@@ -1,11 +1,12 @@
 # 林文良 (DexerLin)
 
-## 安卓开发工程师
+## 移动开发工程师
 
-- 微信: dexter_lin_007
+- 微信: lin_dexter
 - 联系电话: +86 1xx-xxxx-xxxx
 - 电子邮箱: [405514926@qq.com](405514926@qq.com)
 - GitHub: [https://github.com/DexterLin007](https://github.com/DexterLin007)
+- 官网：[www.lggtea.com](www.lggtea.com)
 
 
 ## 自我评价
@@ -95,6 +96,7 @@ Java后端项目
 - [Python](https://www.python.org)
 - [PHP](https://www.php.net)
 - [Golang](https://golang.google.cn)
+- [Swift]
 
 
 
@@ -130,4 +132,5 @@ Java后端项目
 
 ## 兴趣爱好
 
-喜欢新技术，业余喜爱打篮球、羽毛球、跑步。
+喜欢新技术，业余喜爱打篮球、健身、跑步。
+业余喜欢研究财报，初入投资行业。
